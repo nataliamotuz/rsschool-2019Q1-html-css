@@ -1,2 +1,4 @@
-# rsschool-2019Q1-html-css
-rsschool-2019Q1-html-css
+Natallia Motuz
+HTML CSS Basics: https://www.codecademy.com/users/ogniskoognisko/achievements
+
+https://htmlacademy.ru/profile/id598427/achievements
